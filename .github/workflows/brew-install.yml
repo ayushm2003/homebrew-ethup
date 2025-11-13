@@ -13,4 +13,4 @@ jobs:
         run: |
           brew tap ayushm2003/ethup
           brew install eth
-          eth --version
+          eth --help
