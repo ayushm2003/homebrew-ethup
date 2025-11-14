@@ -5,8 +5,8 @@ class Eth < Formula
   
 	on_macos do
 		on_arm do
-			url "https://github.com/ayushm2003/ethup/releases/download/v0.1.0/eth-aarch64-macos.tar.gz"
-			sha256 "20f3efad04b6e286691184f6b0f845c68454773d099b73c3032e6724ec25c9d4"
+			url "https://github.com/ayushm2003/ethup/releases/download/v0.2.0/eth-aarch64-macos.tar.gz"
+			sha256 "3741423e32411afbb8b3ba47a7b74252e9f4d4067423ae827a34dbef05f95afc"
 		end
 	end
   
