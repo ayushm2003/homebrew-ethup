@@ -1,7 +1,7 @@
 class Eth < Formula
 	desc "Simple Ethereum node orchestrator (reth + lighthouse)"
 	homepage "https://github.com/ayushm2003/ethup"
-	version "0.1.0"
+	version "0.2.0"
   
 	on_macos do
 		on_arm do
